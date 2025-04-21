@@ -1,2 +1,2 @@
 # My-Learnings
-this is my first ever repository
+this is my first ever repository.
